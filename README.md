@@ -1,2 +1,3 @@
 # parcel-app-boilerplate
-A bare bones parcel web app 
+
+A bare bones react app bundled with parcel
